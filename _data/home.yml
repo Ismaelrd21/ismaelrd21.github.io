@@ -65,18 +65,24 @@ services:
       description: "Desarrollo de soluciones tecnológicas orientadas a innovación, experimentación y mejora continua."
 
 experience:
-  heading: "Experiencia e impacto"
+  heading: "Experiencia e investigación aplicada"
   timeline:
-    - period: "2024 - Actualidad"
-      title: "Softland Chile · Analista de Desarrollo"
-      text: "Diseño y desarrollo de soluciones empresariales, APIs e integraciones. Liderazgo técnico en automatizaciones, optimización de pipelines y adopción de GitHub Copilot para la organización."
-    - period: "2023"
-      title: "Municipalidad de Peñaflor"
-      inverted: true
-      text: "Participación en proyectos de transformación digital, automatización de reportes y desarrollo web, aportando experiencia práctica en levantamiento de requerimientos y ejecución técnica."
-    - period: "2020 - 2024"
-      title: "Universidad Andrés Bello"
-      text: "Formación en Ingeniería en Computación e Informática, consolidando bases en desarrollo de software, arquitectura y resolución de problemas complejos."
+
+    - period: "2025"
+      title: "Coautor publicación científica internacional"
+      text: "Participación en investigación internacional sobre hidrógeno verde y transición energética en colaboración con equipos de Chile, Brasil y Colombia. Validación técnica, revisión de estructura científica, corrección de referencias y trabajo colaborativo mediante Overleaf para publicación indexada en ScienceDirect."
+
+    - period: "2024 - 2025"
+      title: "Centro de Transformación Energética (CTE) - Ayudante de investigación"
+      text: "Investigación aplicada en automatización, sistemas eléctricos inteligentes y simulación en tiempo real. Desarrollo de estudios sobre protocolo IEC 61850 utilizando OPAL-RT, Linux y plataformas Jetson para integración y comunicación industrial."
+
+    - period: "2024 - 2025"
+      title: "Investigación en telemetría y control predictivo"
+      text: "Análisis y extracción de telemetría en simulaciones de conducción Assetto Corsa para desarrollo de modelos predictivos y comprensión dinámica de comportamiento vehicular en tiempo real."
+
+    - period: "2022 - 2026"
+      title: "Ingeniería en Automatización y Robótica"
+      text: "Desarrollo de proyectos en PLC Siemens, TIA Portal, RobotStudio, Node-RED, visión computacional, robótica industrial y automatización de procesos inteligentes."
 
 achievements:
   heading: "Logros y reconocimientos"
