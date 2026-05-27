@@ -1,0 +1,15 @@
+---
+title: Simulación de robótica industrial
+subtitle: Paletizado y manipulación con RobotStudio
+layout: default
+modal-id: 8
+date: 2024-01-01
+img: robotstudio.jpg
+thumbnail: robotstudio.jpg
+alt: Simulación de brazo robótico industrial
+project-date: 2024
+client: Universidad Andrés Bello
+category: RobotStudio · Robótica industrial · Paletizado · Automatización
+
+description: Simulación de procesos de robótica industrial utilizando RobotStudio, orientada a tareas de manipulación, embalaje y paletizado mediante brazos robóticos. El proyecto permitió aplicar conceptos de trayectorias, secuencias de operación, automatización de procesos productivos y análisis de celdas robotizadas en entornos industriales simulados.
+---
