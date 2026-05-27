@@ -1,14 +1,15 @@
 ---
-title: Integración de GitHub Copilot
-subtitle: Adopción empresarial en Softland Chile
+title: Automatización industrial con PLC Siemens
+subtitle: Simulación de procesos con TIA Portal
 layout: default
 modal-id: 1
-date: 2025-04-01
-img: copilot-integration.svg
-thumbnail: copilot-integration.svg
-alt: Integración GitHub Copilot en equipos de desarrollo
-project-date: 2025
-client: Softland Chile
-category: GitHub Copilot · Gobierno técnico · IA aplicada
-description: Proyecto orientado a integrar y escalar el uso de GitHub Copilot en equipos de desarrollo. Incluyó definición de lineamientos, acompañamiento técnico, difusión interna y charla para toda la organización. El resultado fue una adopción más consistente y alineada con estándares de ingeniería.
+date: 2024-01-01
+img: plc-siemens.jpg
+thumbnail: plc-siemens.jpg
+alt: Automatización industrial con PLC Siemens
+project-date: 2024
+client: Universidad Andrés Bello
+category: PLC Siemens · TIA Portal · Sensores · Automatización
+
+description: Desarrollo de proyectos de automatización industrial mediante PLC Siemens y TIA Portal, incluyendo simulaciones de llenado y vaciado de estanques, control de ascensores, cintas transportadoras y clasificación de cajas por tamaño y color. Los proyectos permitieron aplicar lógica de control, sensores, actuadores y secuencias automatizadas en entornos simulados.
 ---
