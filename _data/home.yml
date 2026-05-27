@@ -100,12 +100,12 @@ formation:
     - "Microsoft Certified: Azure Fundamentals"
     - "C# TOTAL - Programador Experto"
     - "Formación complementaria en ciberseguridad (enfoque secundario)"
-  events:
-    - "Microsoft AI Envisioning Day: Publishing and Releasing Your AI Agent Solution"
-    - "Microsoft Discovery Hour: Escala con puntos finales en la nube y la IA"
-    - "Hackathon: Agentes Guiados por Datos - Chile 2025"
-    - "Microsoft Virtual Training Day: Create Agents in Microsoft Copilot Studio"
-    - "Innovando con GitHub Copilot — Estrategia, Uso y Prompt Crafting"
+events:
+    - "IEEE IAS Workshop on Power Electronics and Renewable Energies - Universidad Andrés Bello (2025)"
+    - "Seminario IV: Challenges and Future Trends in Power Electronics & Smart Grids"
+    - "Participación en actividades y networking técnico junto a IEEE e investigadores internacionales"
+    - "Visita técnica y recorrido por laboratorios de robótica, energía y automatización - Universidad de Chile"
+    - "Experiencia en entornos colaborativos de investigación y desarrollo tecnológico"
 
 contact:
   heading: "Contacto"
