@@ -96,13 +96,14 @@ achievements:
 formation:
   heading: "Formación, investigación y eventos"
 
-expertise:
+  expertise:
     - "Ingeniería en Automatización y Robótica - Universidad Andrés Bello"
     - "Ayudante de investigación - Centro de Transformación Energética (CTE)"
     - "Investigación aplicada en Smart Grids, IEC 61850 y OPAL-RT"
     - "Desarrollo de inteligencia artificial aplicada en MATLAB y Python"
     - "Experiencia en automatización industrial con PLC Siemens y TIA Portal"
-events:
+
+  events:
     - "IEEE IAS Workshop on Power Electronics and Renewable Energies - Universidad Andrés Bello (2025)"
     - "Seminario IV: Challenges and Future Trends in Power Electronics & Smart Grids"
     - "Participación en actividades y networking técnico junto a IEEE e investigadores internacionales"
