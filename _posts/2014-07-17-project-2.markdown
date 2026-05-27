@@ -3,7 +3,7 @@ title: Publicación científica sobre hidrógeno verde
 subtitle: Análisis de roadmaps energéticos en Chile, Brasil y Colombia
 layout: default
 modal-id: 2
-date: 2025-01-01
+date: 2025-09-01
 img: hydrogen.jpg
 thumbnail: hydrogen.jpg
 alt: Investigación sobre hidrógeno verde
