@@ -1,0 +1,15 @@
+---
+title: Domotización de Biblioteca Nacional
+subtitle: Automatización inteligente con Node-RED
+layout: default
+modal-id: 7
+date: 2024-01-01
+img: nodered-library.jpg
+thumbnail: nodered-library.jpg
+alt: Domotización y automatización de edificio
+project-date: 2024
+client: Universidad Andrés Bello
+category: Node-RED · Domótica · Seguridad · Automatización
+
+description: Desarrollo de una propuesta de domotización para la Biblioteca Nacional de Chile utilizando Node-RED, orientada a automatizar funciones de seguridad, climatización, control de accesos, horarios de apertura y respuesta ante eventos como incendios. El proyecto permitió integrar lógica de automatización, protocolos de seguridad y control inteligente de infraestructura.
+---
