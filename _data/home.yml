@@ -94,12 +94,14 @@ achievements:
     - "Experiencia en simulación industrial con PLC Siemens, TIA Portal, RobotStudio, Node-RED y OPAL-RT."
 
 formation:
-  heading: "Formación, certificaciones y eventos"
-  certifications:
-    - "Ingeniería en Computación e Informática — Universidad Andrés Bello"
-    - "Microsoft Certified: Azure Fundamentals"
-    - "C# TOTAL - Programador Experto"
-    - "Formación complementaria en ciberseguridad (enfoque secundario)"
+  heading: "Formación, investigación y eventos"
+
+expertise:
+    - "Ingeniería en Automatización y Robótica - Universidad Andrés Bello"
+    - "Ayudante de investigación - Centro de Transformación Energética (CTE)"
+    - "Investigación aplicada en Smart Grids, IEC 61850 y OPAL-RT"
+    - "Desarrollo de inteligencia artificial aplicada en MATLAB y Python"
+    - "Experiencia en automatización industrial con PLC Siemens y TIA Portal"
 events:
     - "IEEE IAS Workshop on Power Electronics and Renewable Energies - Universidad Andrés Bello (2025)"
     - "Seminario IV: Challenges and Future Trends in Power Electronics & Smart Grids"
