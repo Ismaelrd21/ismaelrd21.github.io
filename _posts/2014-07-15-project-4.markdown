@@ -1,14 +1,15 @@
 ---
-title: Optimización de pipelines CI/CD
-subtitle: Despliegues más predecibles para proyectos complejos
+title: Integración IEC 61850 con OPAL-RT y Jetson
+subtitle: Investigación aplicada en comunicación industrial y tiempo real
 layout: default
 modal-id: 4
-date: 2025-01-20
-img: cicd-pipelines.svg
-thumbnail: cicd-pipelines.svg
-alt: Pipeline CI/CD y despliegues automatizados
-project-date: 2024-2025
-client: Softland Chile
-category: Azure DevOps · CI/CD · Versionamiento
-description: Mejora de pipelines y estandarización de etapas de despliegue para reducir tiempos en proyectos complejos. Incluyó automatización de controles de código y fortalecimiento de prácticas de versionamiento para aumentar la confiabilidad del release.
+date: 2025-01-01
+img: iec61850.jpg
+thumbnail: iec61850.jpg
+alt: Integración industrial IEC 61850
+project-date: 2025
+client: Centro de Transformación Energética (CTE)
+category: IEC 61850 · Linux · OPAL-RT · Jetson · Smart Grid
+
+description: Investigación aplicada enfocada en integración de sistemas eléctricos inteligentes utilizando protocolo IEC 61850 y simulación en tiempo real mediante OPAL-RT. El proyecto incluyó estudio de comunicación maestro-esclavo, integración de plataformas Linux y Jetson, simulación de redes eléctricas inteligentes y análisis de interoperabilidad en entornos Smart Grid.
 ---
