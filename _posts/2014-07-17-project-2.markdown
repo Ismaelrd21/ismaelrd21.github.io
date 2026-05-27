@@ -1,14 +1,15 @@
 ---
-title: Publicación científica sobre hidrógeno verde
-subtitle: Análisis de roadmaps energéticos en Chile, Brasil y Colombia
+title: "Publicación científica sobre hidrógeno verde"
+subtitle: "Análisis de roadmaps energéticos en Chile, Brasil y Colombia"
 layout: default
 modal-id: 2
-date: 2025-09-01
+date: 2025-01-01
 img: hydrogen.jpg
 thumbnail: hydrogen.jpg
-alt: Investigación sobre hidrógeno verde
+alt: "Investigación sobre hidrógeno verde"
 project-date: 2025
-client: Investigación internacional · ScienceDirect
-category: Hidrógeno verde · Transición energética · Investigación · Overleaf
-description: 'Participación como coautor en la publicación científica "Fueling the transition: A comprehensive analysis of hydrogen roadmaps in Chile, Brazil and Colombia". El trabajo abordó el análisis comparativo de estrategias de hidrógeno verde en Latinoamérica, incluyendo revisión técnica, validación de contenido, corrección de referencias y colaboración académica mediante Overleaf.'
+client: "Investigación internacional · ScienceDirect"
+category: "Hidrógeno verde · Transición energética · Investigación · Overleaf"
+
+description: "Participación como coautor en la publicación científica 'Fueling the transition: A comprehensive analysis of hydrogen roadmaps in Chile, Brazil and Colombia'. Colaboración internacional enfocada en revisión técnica, validación científica, análisis de referencias y estructuración de contenido sobre transición energética e hidrógeno verde utilizando Overleaf."
 ---
