@@ -1,8 +1,8 @@
 hero:
-  badge: "Ingeniería de software · DevOps · IA aplicada"
-  lead: "Hola, soy Isaac Andrés Rivera Delgado"
-  heading: "Construyo soluciones de software empresariales con foco en arquitectura, automatización y entrega continua"
-  summary: "Ingeniero en Computación e Informática en Santiago, Chile. Actualmente me desempeño en Softland Chile impulsando APIs, automatización de procesos, CI/CD, integración de sistemas y adopción de GitHub Copilot para equipos de desarrollo."
+  badge: "Automatización · Robótica · IA aplicada"
+  lead: "Hola, soy Ismael Rivera"
+  heading: "Desarrollo soluciones tecnológicas combinando automatización, robótica e inteligencia artificial"
+  summary: "Ingeniero en Automatización y Robótica en Santiago, Chile. Me enfoco en automatización inteligente, desarrollo tecnológico, investigación aplicada e integración de inteligencia artificial para resolver problemas reales."
   ctas:
     - label: "Ver LinkedIn"
       url: "https://www.linkedin.com/in/isaac-andr%C3%A9s-rivera-delgado-990b4a207/"
