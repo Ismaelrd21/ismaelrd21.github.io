@@ -3,7 +3,7 @@ title: Automatización industrial con PLC Siemens
 subtitle: Simulación de procesos con TIA Portal
 layout: default
 modal-id: 1
-date: 2024 - 2025
+date: 2025-01-01
 img: plc-siemens.jpg
 thumbnail: plc-siemens.jpg
 alt: Automatización industrial con PLC Siemens
