@@ -3,7 +3,7 @@ title: Simulación de robótica industrial
 subtitle: Paletizado y manipulación con RobotStudio
 layout: default
 modal-id: 8
-date: 2025
+date: 2025-01-01
 img: robotstudio.jpg
 thumbnail: robotstudio.jpg
 alt: Simulación de brazo robótico industrial
