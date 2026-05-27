@@ -1,16 +1,16 @@
-url: "https://isaacrd14.github.io"
+url: "https://github.com/Ismaelrd21"
 baseurl: ""
 
 # Site settings
-title: "Isaac Andrés Rivera Delgado"
-email: "isaac.riverad14@gmail.com"
-description: "Portafolio profesional de ingeniería de software, automatización, arquitectura e IA aplicada."
+title: "Ismael Isaías Rivera Delgado"
+email: "ismael.riveradelgado.ing@gmail.com"
+description: "Portafolio profesional enfocado en automatización, robótica, inteligencia artificial e investigación aplicada."
 
 social:
   - title: linkedin
-    url: "https://www.linkedin.com/in/isaac-andr%C3%A9s-rivera-delgado-990b4a207/"
+    url: "https://www.linkedin.com/in/ismaelriveradelgado/"
   - title: github
-    url: "https://github.com/Isaacrd14"
+    url: "https://github.com/Ismaelrd21"
 
 markdown: kramdown
 permalink: pretty
