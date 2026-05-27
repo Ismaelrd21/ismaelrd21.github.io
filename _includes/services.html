@@ -1,0 +1,19 @@
+<section id="services" class="section-muted">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">{{ site.data.home.services.heading }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.home.services.subheading }}</h3>
+      </div>
+    </div>
+    <div class="services-grid" role="list">
+      {% for service in site.data.home.services.items %}
+        <article class="service-card" role="listitem">
+          <span class="service-icon" aria-hidden="true"><i class="fa {{ service.icon }}"></i></span>
+          <h4 class="service-heading">{{ service.title }}</h4>
+          <p class="text-muted">{{ service.description }}</p>
+        </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

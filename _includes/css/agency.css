@@ -1,0 +1,8 @@
+/*
+ * Base CSS placeholder for compatibility with the original Agency structure.
+ * Main visual customization now lives in /style.css.
+ */
+
+.img-centered {
+  margin: 0 auto;
+}

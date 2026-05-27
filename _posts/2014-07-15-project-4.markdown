@@ -1,0 +1,14 @@
+---
+title: Optimización de pipelines CI/CD
+subtitle: Despliegues más predecibles para proyectos complejos
+layout: default
+modal-id: 4
+date: 2025-01-20
+img: cicd-pipelines.svg
+thumbnail: cicd-pipelines.svg
+alt: Pipeline CI/CD y despliegues automatizados
+project-date: 2024-2025
+client: Softland Chile
+category: Azure DevOps · CI/CD · Versionamiento
+description: Mejora de pipelines y estandarización de etapas de despliegue para reducir tiempos en proyectos complejos. Incluyó automatización de controles de código y fortalecimiento de prácticas de versionamiento para aumentar la confiabilidad del release.
+---

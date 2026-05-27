@@ -1,0 +1,46 @@
+<section id="about" class="section-dark">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">{{ site.data.home.about.heading }}</h2>
+      </div>
+    </div>
+    <div class="row about-grid">
+      <div class="col-md-8">
+        {% for paragraph in site.data.home.about.text %}
+          <p class="about-text">{{ paragraph }}</p>
+        {% endfor %}
+      </div>
+      <div class="col-md-4">
+        <div class="chip-list">
+          {% for chip in site.data.home.about.chips %}
+            <span class="tech-chip">{{ chip }}</span>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    <div class="row experience-block">
+      <div class="col-lg-12 text-center">
+        <h3 class="section-subheading">{{ site.data.home.experience.heading }}</h3>
+      </div>
+      <div class="col-lg-12">
+        <ul class="timeline timeline-simple">
+          {% for milestone in site.data.home.experience.timeline %}
+            <li{% if milestone.inverted %} class="timeline-inverted"{% endif %}>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4>{{ milestone.period }}</h4>
+                  <h4 class="subheading">{{ milestone.title }}</h4>
+                </div>
+                <div class="timeline-body">
+                  <p class="text-muted">{{ milestone.text }}</p>
+                </div>
+              </div>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
