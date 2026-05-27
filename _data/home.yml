@@ -92,11 +92,11 @@ achievements:
     - "Desarrollo de tesis basada en inteligencia artificial para diagnóstico y localización de fallas eléctricas en redes Smart Grid."
     - "Implementación de modelos Random Forest y Bagging Trees en MATLAB y Python para análisis de grandes volúmenes de datos."
     - "Experiencia en simulación industrial con PLC Siemens, TIA Portal, RobotStudio, Node-RED y OPAL-RT."
-
+    
 formation:
   heading: "Formación, investigación y eventos"
 
-  expertise:
+  certifications:
     - "Ingeniería en Automatización y Robótica - Universidad Andrés Bello"
     - "Ayudante de investigación - Centro de Transformación Energética (CTE)"
     - "Investigación aplicada en Smart Grids, IEC 61850 y OPAL-RT"
