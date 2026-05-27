@@ -35,27 +35,34 @@ about:
     - "Integración tecnológica"
 
 services:
-  heading: "Stack tecnológico y capacidades"
-  subheading: "Tecnologías y líneas de trabajo con foco en resultados de negocio."
+  heading: "Áreas de trabajo y capacidades"
+
+  subheading: "Tecnologías y enfoques aplicados en automatización, robótica e inteligencia artificial."
+
   items:
-    - title: "Ingeniería .NET"
-      icon: "fa-code"
-      description: "Desarrollo de software empresarial en C#, .NET Framework y ASP.NET Core, incluyendo diseño de APIs y componentes reutilizables."
-    - title: "DevOps y CI/CD"
-      icon: "fa-cogs"
-      description: "Diseño y automatización de pipelines en Azure DevOps para estandarizar despliegues, versionamiento y control de calidad técnica."
-    - title: "Arquitectura e integración"
-      icon: "fa-sitemap"
-      description: "Diseño de soluciones de múltiples sistemas, integraciones complejas y definición de arquitectura para ecosistemas de proyectos."
-    - title: "Automatización de procesos"
-      icon: "fa-random"
-      description: "Implementación de flujos automáticos con lógica de negocio, tareas orquestadas y respaldo de datos para procesos críticos."
-    - title: "Azure y datos"
-      icon: "fa-cloud"
-      description: "Uso de servicios en Azure para operación, almacenamiento y continuidad, incluyendo respaldos en Azure Blob Storage."
-    - title: "IA aplicada al desarrollo"
-      icon: "fa-lightbulb-o"
-      description: "Integración y adopción de GitHub Copilot en entornos empresariales, con foco en productividad, buenas prácticas y gobernanza."
+    - title: "Automatización inteligente"
+      icon: "fa-gears"
+      description: "Diseño de soluciones automatizadas para optimizar procesos y mejorar eficiencia operacional."
+
+    - title: "Robótica y control"
+      icon: "fa-robot"
+      description: "Integración de sistemas robóticos, sensores y estrategias de control aplicadas a entornos reales."
+
+    - title: "Inteligencia Artificial"
+      icon: "fa-brain"
+      description: "Aplicación de IA y aprendizaje automático para análisis, automatización y toma de decisiones."
+
+    - title: "Visión computacional"
+      icon: "fa-camera"
+      description: "Procesamiento y análisis de imágenes para sistemas inteligentes y automatización visual."
+
+    - title: "IoT e integración tecnológica"
+      icon: "fa-microchip"
+      description: "Conexión de dispositivos, sensores y plataformas para monitoreo y control inteligente."
+
+    - title: "Investigación aplicada"
+      icon: "fa-flask"
+      description: "Desarrollo de soluciones tecnológicas orientadas a innovación, experimentación y mejora continua."
 
 experience:
   heading: "Experiencia e impacto"
