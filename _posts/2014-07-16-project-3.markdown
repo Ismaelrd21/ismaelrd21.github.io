@@ -1,14 +1,15 @@
 ---
-title: Gestión de réplicas de empresas
-subtitle: Flujo automatizado end-to-end
+title: Telemetría y control predictivo vehicular
+subtitle: Extracción de datos en simulación de conducción en tiempo real
 layout: default
 modal-id: 3
-date: 2025-02-10
-img: architecture-integration.svg
-thumbnail: architecture-integration.svg
-alt: Arquitectura e integración para gestión de réplicas
+date: 2025-01-01
+img: telemetry.jpg
+thumbnail: telemetry.jpg
+alt: Telemetría vehicular y control predictivo
 project-date: 2025
-client: Softland Chile
-category: APIs · Automatización de procesos · Integración
-description: Implementación de un flujo integral para gestionar réplicas de empresas de forma automática. El diseño abordó reglas de negocio, validaciones, coordinación entre componentes y control operativo para reducir dependencia de tareas manuales.
+client: Centro de Transformación Energética (CTE)
+category: Telemetría · Control predictivo · Assetto Corsa · Datos · Simulación
+
+description: Investigación orientada a la extracción y análisis de telemetría desde simulaciones de conducción en Assetto Corsa, con el objetivo de estudiar variables dinámicas del vehículo y explorar modelos de control predictivo. El proyecto permitió trabajar con datos en tiempo real, análisis de comportamiento vehicular y fundamentos de control aplicado a sistemas dinámicos.
 ---
