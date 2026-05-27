@@ -1,15 +1,14 @@
 ---
-title: Integración IEC 61850 con OPAL-RT y Jetson
-subtitle: Investigación aplicada en comunicación industrial y tiempo real
+title: "Integración IEC 61850 con OPAL-RT y Jetson"
+subtitle: "Investigación aplicada en comunicación industrial y tiempo real"
 layout: default
 modal-id: 4
-date: 2024
-img: iec61850.jpg
-thumbnail: iec61850.jpg
-alt: Integración industrial IEC 61850
+date: 2024-01-01
+img: "iec61850.jpg"
+thumbnail: "iec61850.jpg"
+alt: "Integración industrial IEC 61850"
 project-date: 2025
-client: Centro de Transformación Energética (CTE)
-category: IEC 61850 · Linux · OPAL-RT · Jetson · Smart Grid
-
-description: Investigación aplicada enfocada en integración de sistemas eléctricos inteligentes utilizando protocolo IEC 61850 y simulación en tiempo real mediante OPAL-RT. El proyecto incluyó estudio de comunicación maestro-esclavo, integración de plataformas Linux y Jetson, simulación de redes eléctricas inteligentes y análisis de interoperabilidad en entornos Smart Grid.
+client: "Centro de Transformación Energética (CTE)"
+category: "IEC 61850 · Linux · OPAL-RT · Jetson · Smart Grid"
+description: "Investigación aplicada enfocada en integración de sistemas eléctricos inteligentes utilizando protocolo IEC 61850 y simulación en tiempo real mediante OPAL-RT. El proyecto incluyó estudio de comunicación maestro-esclavo, integración de plataformas Linux y Jetson, simulación de redes eléctricas inteligentes y análisis de interoperabilidad en entornos Smart Grid."
 ---
