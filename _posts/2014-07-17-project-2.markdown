@@ -10,6 +10,5 @@ alt: Investigación sobre hidrógeno verde
 project-date: 2025
 client: Investigación internacional · ScienceDirect
 category: Hidrógeno verde · Transición energética · Investigación · Overleaf
-
 description: Participación como coautor en la publicación científica “Fueling the transition: A comprehensive analysis of hydrogen roadmaps in Chile, Brazil and Colombia”. El trabajo abordó el análisis comparativo de estrategias de hidrógeno verde en Latinoamérica, incluyendo revisión técnica, validación de contenido, corrección de referencias y colaboración académica mediante Overleaf.
 ---
