@@ -16,20 +16,23 @@ hero:
 
 about:
   heading: "Sobre mí"
+
   text:
-    - "Soy Ingeniero en Computación e Informática de la Universidad Andrés Bello, con experiencia construyendo software empresarial y automatizaciones de alto impacto."
-    - "Mi foco actual está en C#, .NET, APIs, Azure, Azure DevOps y prácticas DevOps para reducir tiempos de entrega sin comprometer calidad."
-    - "También lidero iniciativas de IA aplicada al desarrollo, especialmente en integración y adopción de GitHub Copilot para equipos corporativos."
+    - "Soy Ingeniero en Automatización y Robótica con interés en investigación aplicada, automatización inteligente y desarrollo de soluciones tecnológicas."
+    - "Me enfoco en integrar robótica, inteligencia artificial y sistemas automatizados para resolver problemas reales en entornos industriales y tecnológicos."
+    - "Disfruto el aprendizaje continuo, la innovación y el desarrollo de proyectos multidisciplinarios orientados al impacto tecnológico."
+
   chips:
-    - "C#"
-    - ".NET / ASP.NET Core"
-    - ".NET Framework"
-    - "Azure"
-    - "Azure DevOps"
-    - "CI/CD"
-    - "APIs"
-    - "Arquitectura e integración"
-    - "GitHub Copilot"
+    - "Automatización"
+    - "Robótica"
+    - "Inteligencia Artificial"
+    - "Investigación aplicada"
+    - "Python"
+    - "Matlab"
+    - "Visión computacional"
+    - "IoT"
+    - "Control y sensores"
+    - "Integración tecnológica"
 
 services:
   heading: "Stack tecnológico y capacidades"
