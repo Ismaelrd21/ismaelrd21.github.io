@@ -5,10 +5,10 @@ hero:
   summary: "Ingeniero en Automatización y Robótica en Santiago, Chile. Me enfoco en automatización inteligente, desarrollo tecnológico, investigación aplicada e integración de inteligencia artificial para resolver problemas reales."
   ctas:
     - label: "Ver LinkedIn"
-      url: "https://www.linkedin.com/in/isaac-andr%C3%A9s-rivera-delgado-990b4a207/"
+      url: "https://www.linkedin.com/in/ismaelriveradelgado/"
       style: "primary"
     - label: "Ver GitHub"
-      url: "https://github.com/Isaacrd14"
+      url: "https://github.com/Ismaelrd21"
       style: "secondary"
     - label: "Ir a contacto"
       url: "#contact"
