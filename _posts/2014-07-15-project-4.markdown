@@ -3,7 +3,7 @@ title: Integración IEC 61850 con OPAL-RT y Jetson
 subtitle: Investigación aplicada en comunicación industrial y tiempo real
 layout: default
 modal-id: 4
-date: 2025-01-01
+date: 2024
 img: iec61850.jpg
 thumbnail: iec61850.jpg
 alt: Integración industrial IEC 61850
