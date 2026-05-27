@@ -87,13 +87,11 @@ experience:
 achievements:
   heading: "Logros y reconocimientos"
   items:
-    - "Premio Softland 2025: Mejor Innovación."
-    - "Automatización integral del flujo de gestión de réplicas de empresas."
-    - "Automatización completa del fin de servicio de clientes, incluyendo lógica de negocio, tareas automáticas y respaldos de bases de datos en Azure Blob Storage."
-    - "Reducción de tiempos de despliegue en proyectos complejos mediante pipelines CI/CD."
-    - "Automatización del control de código y versionamiento."
-    - "Participación en migración de Azure DevOps TFVC hacia Azure Git, preservando historial y separando repositorios."
-    - "Liderazgo del proyecto de integración y adopción de GitHub Copilot en Softland Chile, incluyendo charla organizacional."
+    - "Coautor de publicación científica internacional sobre hidrógeno verde y transición energética en Chile, Brasil y Colombia."
+    - "Participación en investigación aplicada en el Centro de Transformación Energética (CTE)."
+    - "Desarrollo de tesis basada en inteligencia artificial para diagnóstico y localización de fallas eléctricas en redes Smart Grid."
+    - "Implementación de modelos Random Forest y Bagging Trees en MATLAB y Python para análisis de grandes volúmenes de datos."
+    - "Experiencia en simulación industrial con PLC Siemens, TIA Portal, RobotStudio, Node-RED y OPAL-RT."
 
 formation:
   heading: "Formación, certificaciones y eventos"
