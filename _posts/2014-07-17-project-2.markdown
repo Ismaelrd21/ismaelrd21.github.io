@@ -1,15 +1,15 @@
 ---
-title: Flujo de fin de servicio
-subtitle: Automatización de proceso crítico con respaldos en Azure
+title: Publicación científica sobre hidrógeno verde
+subtitle: Análisis de roadmaps energéticos en Chile, Brasil y Colombia
 layout: default
 modal-id: 2
-modal-route: Home
-date: 2025-03-15
-img: azure-data.svg
-thumbnail: azure-data.svg
-alt: Automatización y respaldos en Azure
+date: 2025-01-01
+img: hydrogen.jpg
+thumbnail: hydrogen.jpg
+alt: Investigación sobre hidrógeno verde
 project-date: 2025
-client: Softland Chile
-category: C# · .NET · Azure Blob Storage · Automatización
-description: Automatización completa del flujo de fin de servicio a clientes, integrando lógica de negocio, ejecución de tareas programadas y respaldos de bases de datos en Azure Blob Storage. Se mejoró la trazabilidad operativa y la continuidad del proceso sin exponer información sensible.
+client: Investigación internacional · ScienceDirect
+category: Hidrógeno verde · Transición energética · Investigación · Overleaf
+
+description: Participación como coautor en la publicación científica “Fueling the transition: A comprehensive analysis of hydrogen roadmaps in Chile, Brazil and Colombia”. El trabajo abordó el análisis comparativo de estrategias de hidrógeno verde en Latinoamérica, incluyendo revisión técnica, validación de contenido, corrección de referencias y colaboración académica mediante Overleaf.
 ---
