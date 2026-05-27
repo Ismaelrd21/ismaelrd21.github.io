@@ -1,0 +1,16 @@
+url: "https://isaacrd14.github.io"
+baseurl: ""
+
+# Site settings
+title: "Isaac Andrés Rivera Delgado"
+email: "isaac.riverad14@gmail.com"
+description: "Portafolio profesional de ingeniería de software, automatización, arquitectura e IA aplicada."
+
+social:
+  - title: linkedin
+    url: "https://www.linkedin.com/in/isaac-andr%C3%A9s-rivera-delgado-990b4a207/"
+  - title: github
+    url: "https://github.com/Isaacrd14"
+
+markdown: kramdown
+permalink: pretty
