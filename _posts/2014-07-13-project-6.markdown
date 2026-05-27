@@ -1,14 +1,15 @@
 ---
-title: Chatbot con Dialogflow
-subtitle: Asistente conversacional para atención digital
+title: Diagnóstico y localización de fallas en redes eléctricas basado en árboles de decisión 
+subtitle: Inteligencia artificial aplicada a redes eléctricas
 layout: default
 modal-id: 6
-date: 2023-10-01
-img: chatbot-ai.svg
-thumbnail: chatbot-ai.svg
-alt: Chatbot conversacional con IA
-project-date: 2023
-client: Municipalidad de Peñaflor
-category: Dialogflow · Integración web · Automatización de atención
-description: Desarrollo e implementación de un chatbot con Dialogflow para apoyar atención digital en portales municipales. Se trabajó en el diseño de flujos conversacionales, entrenamiento y publicación, aportando experiencia práctica en soluciones de IA aplicada.
+date: 2026-01-28
+img: smartgrid.jpg
+thumbnail: smartgrid.jpg
+alt: Diagnóstico inteligente de fallas eléctricas
+project-date: 2025
+client: Universidad Andrés Bello · Centro de Transformación Energética
+category: MATLAB · Python · Random Forest · Smart Grid · IA
+
+description: Desarrollo de un sistema de diagnóstico y localización de fallas eléctricas en redes Smart Grid utilizando inteligencia artificial basada en Random Forest y Bagging Trees. El proyecto incluyó procesamiento de grandes volúmenes de datos, simulaciones eléctricas IEEE de 14 nodos, análisis predictivo y desarrollo de modelos en MATLAB y Python para clasificación y detección de eventos eléctricos.
 ---
