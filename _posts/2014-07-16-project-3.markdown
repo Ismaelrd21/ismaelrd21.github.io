@@ -3,7 +3,7 @@ title: Telemetría y control predictivo vehicular
 subtitle: Extracción de datos en simulación de conducción en tiempo real
 layout: default
 modal-id: 3
-date: 2025-01-01
+date: 2025
 img: telemetry.jpg
 thumbnail: telemetry.jpg
 alt: Telemetría vehicular y control predictivo
