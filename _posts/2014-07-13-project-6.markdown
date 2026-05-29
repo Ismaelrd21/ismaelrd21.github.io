@@ -4,8 +4,8 @@ subtitle: Inteligencia artificial aplicada a redes eléctricas
 layout: default
 modal-id: 6
 date: 2026-01-28
-img: Imagen1.png
-thumbnail: Imagen1.png
+img: modernizacion-redes-electricas-smartgridsinfo-20240417-1513-768x439.png
+thumbnail: modernizacion-redes-electricas-smartgridsinfo-20240417-1513-768x439.png
 alt: Diagnóstico inteligente de fallas eléctricas
 project-date: 2025
 client: Universidad Andrés Bello · Centro de Transformación Energética
