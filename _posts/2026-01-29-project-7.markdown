@@ -4,8 +4,8 @@ subtitle: Automatización inteligente con Node-RED
 layout: default
 modal-id: 7
 date: 2025-01-01
-img: homeassistant-logo.png
-thumbnail: homeassistant-logo.png
+img: ha_dashboard_blue.jpeg
+thumbnail: ha_dashboard_blue.jpeg
 alt: Domotización y automatización de edificio
 project-date: 2024
 client: Universidad Andrés Bello
