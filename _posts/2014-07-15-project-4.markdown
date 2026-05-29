@@ -4,8 +4,8 @@ subtitle: "Investigación aplicada en comunicación industrial y tiempo real"
 layout: default
 modal-id: 4
 date: 2024-01-01
-img: "iec61850.jpg"
-thumbnail: "iec61850.jpg"
+img: "subestacion electrica digital.jpg"
+thumbnail: "subestacion electrica digital.jpg"
 alt: "Integración industrial IEC 61850"
 project-date: 2025
 client: "Centro de Transformación Energética (CTE)"
