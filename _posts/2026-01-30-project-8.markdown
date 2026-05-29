@@ -4,8 +4,8 @@ subtitle: Paletizado y manipulación con RobotStudio
 layout: default
 modal-id: 8
 date: 2025-01-01
-img: robotstudio.jpg
-thumbnail: robotstudio.jpg
+img: abb-scaled.webp
+thumbnail: abb-scaled.webp
 alt: Simulación de brazo robótico industrial
 project-date: 2024
 client: Universidad Andrés Bello
