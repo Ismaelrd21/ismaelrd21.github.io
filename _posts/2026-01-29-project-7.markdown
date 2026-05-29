@@ -3,7 +3,7 @@ title: Domotización de Biblioteca Nacional
 subtitle: Automatización inteligente con Node-RED
 layout: default
 modal-id: 7
-date: 2025-01-01
+date: 2026-01-01
 img: ha_dashboard_blue.jpeg
 thumbnail: ha_dashboard_blue.jpeg
 alt: Domotización y automatización de edificio
