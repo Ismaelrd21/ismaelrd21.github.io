@@ -45,11 +45,11 @@ services:
       description: "Diseño de soluciones automatizadas para optimizar procesos y mejorar eficiencia operacional."
 
     - title: "Robótica y control"
-      icon: "fa-robot"
+      icon: "fa-cogs"
       description: "Integración de sistemas robóticos, sensores y estrategias de control aplicadas a entornos reales."
 
     - title: "Inteligencia Artificial"
-      icon: "fa-brain"
+      icon: "fa-lightbulb-o"
       description: "Aplicación de IA y aprendizaje automático para análisis, automatización y toma de decisiones."
 
     - title: "Visión computacional"
@@ -57,7 +57,7 @@ services:
       description: "Procesamiento y análisis de imágenes para sistemas inteligentes y automatización visual."
 
     - title: "IoT e integración tecnológica"
-      icon: "fa-microchip"
+      icon: "fa-plug"
       description: "Conexión de dispositivos, sensores y plataformas para monitoreo y control inteligente."
 
     - title: "Investigación aplicada"
