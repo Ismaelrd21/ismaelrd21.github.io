@@ -4,8 +4,8 @@ subtitle: "Análisis de roadmaps energéticos en Chile, Brasil y Colombia"
 layout: default
 modal-id: 2
 date: 2025-01-01
-img: X13640321.jpg
-thumbnail: X13640321.jpg
+img: image.png
+thumbnail: image.png
 alt: "Investigación sobre hidrógeno verde"
 project-date: 2025
 client: "Investigación internacional · ScienceDirect"
